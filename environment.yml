@@ -1,0 +1,9 @@
+name: parcels
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.10
+  - parcels
+  - pydantic
+  - pyyaml
+  - loguru
